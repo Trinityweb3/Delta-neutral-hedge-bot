@@ -15,8 +15,8 @@ cd Deltra-neutral-hedge-bot
 Create a `.env` file in the root of the project with the following variables:
 
 ```env
-METEORA_POOL_ADDRESS=your meteora pda address
-METEORA_WALLET_ADDRESS=Your sol address
+METEORA_POOL_ADDRESS=your_meteora_pda_address_here
+METEORA_WALLET_ADDRESS=your_sol_wallet_address_here
 ```
 Lighter -> Tools -> Api Keys<br>
 
@@ -28,12 +28,12 @@ And then "Generate API Key"<br>
 
 ```
 LIGHTER_API_URL=https://mainnet.zklighter.elliot.ai
-LIGHTER_ACCOUNT_INDEX=your account id
+LIGHTER_ACCOUNT_INDEX=your_account_id
 LIGHTER_MARKET_ID=2 (SOL), # see official lighter API Docs 
 
-LIGHTER_API_KEY_INDEX=your API's index
-LIGHTER_API_KEY=your Lighter API
-LIGHTER_API_SECRET=your Lighter secret api
+LIGHTER_API_KEY_INDEX=your_API_index
+LIGHTER_API_KEY=your_Lighter_API
+LIGHTER_API_SECRET=your_Lighter_secret_api
 ```
 
 ### 3. Useful links
