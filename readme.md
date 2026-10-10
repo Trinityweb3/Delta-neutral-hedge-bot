@@ -6,7 +6,7 @@ A high-frequency delta-neutral bot written in Rust that maintains a SOL hedge be
 
 ### 1. Clone repository
 ```bash
-git clone https://github.com/TrinityWeb3/Deltra-neutral-hedge-bot.git
+git clone https://github.com/TrinityWeb3/Delta-neutral-hedge-bot.git
 cd Deltra-neutral-hedge-bot
 ```
 
