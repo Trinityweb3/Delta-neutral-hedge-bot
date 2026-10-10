@@ -1,6 +1,6 @@
 # Delta-Neutral MM Bot
 
-A high-frequency delta-neutral bot written in Rust that maintains a SOL hedge between a Meteora DLMM position and a perpetual short on Lighter DEX
+A high-frequency delta-neutral market-making bot designed to hedge SOL price volatility while farming trading fees in Meteora DLMM pools. It automatically maintains a short position on Lighter DEX to balance the spot exposure of the LP position.
 
 ## Quickstart
 
