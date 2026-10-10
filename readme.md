@@ -36,7 +36,7 @@ LIGHTER_API_KEY=your Lighter API
 LIGHTER_API_SECRET=your Lighter secret api
 ```
 
-Usefull links
+### 3. Usefull links<br>
 
 Official Lighter API - https://apidocs.lighter.xyz/docs/get-started
 
