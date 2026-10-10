@@ -41,8 +41,3 @@ LIGHTER_API_SECRET=your Lighter secret api
 <a href="https://apidocs.lighter.xyz/docs/get-started" target="_blank">Official Lighter API</a>
 
 
-
-### 3. Usefull links<br>
-
-Official Lighter API - https://apidocs.lighter.xyz/docs/get-started{:target="_blank"}
-
